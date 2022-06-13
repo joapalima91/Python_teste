@@ -1,16 +1,16 @@
 
-# tempo = int(input('Quantos anos seu carro tem? '))
-# if tempo <=3:
-#     print('Carro novo!')
-# else:
-#     print("Carro velho")
+tempo = int(input('Quantos anos seu carro tem? '))
+if tempo <=3:
+    print('Carro novo!')
+else:
+    print("Carro velho")
 
-# nome = str(input('Qual é o seu nome? '))
-# if nome == 'João':
-#     print('Que nome lindo você tem!')
-# else:
-#     print('Seu nome é tão normal!')
-# print('Bom dia, {}!'.format(nome))
+nome = str(input('Qual é o seu nome? '))
+if nome == 'João':
+    print('Que nome lindo você tem!')
+else:
+    print('Seu nome é tão normal!')
+print('Bom dia, {}!'.format(nome))
 
 n1 = float(input('Digite a primeira nota: '))
 n2 = float(input('Digite a segunda nota: '))
